@@ -1,0 +1,21 @@
+[search]
+search=Zoeken...
+search_results=Zoekresulaten
+
+[categories]
+categories=Categorieën
+
+[posts]
+post=bericht
+written_by=door %s
+published=Gepubliceerd op %s
+read_more=Lees meer »
+
+[general]
+about_blog=Over %s
+
+[error_title]
+page_not_found=Pagina niet gevonden
+
+[error]
+page_not_found=De opgevraagde pagina kon niet worden gevonden.<br />Klik <a href="%s">hier</a> om terug naar de homepagina te gaan.
